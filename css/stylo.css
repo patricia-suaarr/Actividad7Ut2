@@ -1,0 +1,22 @@
+header{
+    border: solid ;
+    border-color: #43305C;
+    text-align: center;
+    color: #7B58A8;
+    background-color: #D9C6E9;
+}
+section{
+    border: solid;
+    border-color: #43305C;    
+    padding: 25px;
+    padding-left: 125px;
+    margin-top: 10px;
+}
+input{
+   margin-right: 5px;
+}
+#fallos{
+    color: #8F8D11;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
